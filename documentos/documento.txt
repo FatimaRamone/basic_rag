@@ -1,0 +1,89 @@
+Name: Fatima Pita Perez  
+Location: Ferrol, 15406  
+Phone: +34 625 755 334  
+Email: fatimapitaemail@gmail.com  
+GitHub: https://fatimaramone.github.io/  
+LinkedIn: https://www.linkedin.com/in/fatima-pita-b6a2a6125/  
+
+Summary:  
+Fatima is a highly motivated and results-oriented web developer with 3 years of experience in software development. She transitioned into the tech industry after a diverse career in event coordination and stage management. Fatima prides herself on writing consistent code and solving problems until solutions are found. Her unique background provides her with strong organizational and problem-solving skills that enhance her work in software projects.
+
+Technical Skills:  
+Programming Languages: Python, JavaScript, Kotlin, HTML5, CSS, SQL, PHP, Java  
+Web Frameworks: Flask, Django, FastAPI  
+Other Frameworks and Libraries: Langchain, Selenium, SQLAlchemy, React, Node.js, Android SDK, ML Kit, Room Database  
+Tools and Technologies: Git, Hugging Face, REST, SOAP, API Development, Web Services, JSON, MVVM Architecture, PowerShell, ChromeDriver  
+
+Professional Experience:  
+Backend Developer (Internship), 3.14 Financial Contents (April 2024 - May 2024):  
+- Gained experience in backend development using Python, worked with Langchain for Machine Learning, participated in meetings and presentations.  
+
+Full Stack Web Developer (Internship), 2ksystems (September 2023 - October 2023):  
+- Developed skills in JavaScript and gained insight into the software development industry.  
+
+TESOL Freelancer, Fiverr (March 2020 - November 2022):  
+- Provided online Spanish lessons and completed translation projects while traveling Europe.  
+
+Event Coordinator, Vice Media (February 2019 - March 2020):  
+- Managed event logistics, promotion, and talent selection at the "Old Blue Last" venue in London.  
+
+Assistant Stage Manager, The London Theatre (September 2016 - November 2018):  
+- Managed events, provided artist support, coordinated theatrical projects and children's programs.  
+
+Assistant Stage Manager, Barbican Center (April 2016 - September 2016):  
+- Participated in the production of "Cathy Come Home," gaining valuable stage management experience.  
+
+Event Coordinator, The Brixton Jamm (December 2012 - February 2016):  
+- Supervised staff, managed inventory, handled cash, organized events including marketing, promotion, and talent booking.  
+
+Education:  
+Higher Technician in Web Application Development, Rodolfo Ucha Piñeiro (September 2023 - Present)  
+Cybersecurity (420 hours) (December 2023 - March 2024)  
+Web Application Development with Web Technologies (615 hours) (May 2023 - September 2023)  
+Object-Oriented Programming and Relational Databases (710 hours) (November 2022 - April 2023)  
+
+Languages:  
+English: Native (10 years of residency in London)  
+
+Projects:  
+DNS Management with DigitalOcean:  
+- A project where DNS records (CNAME and NS) were managed for the custom domain fatimapita.com using DigitalOcean. This involved configuring CNAME to point to a hosting service and setting up NS records for proper domain resolution.  
+
+Analytics Integration with Google Analytics 4 (GA4):  
+- Integrated Google Analytics 4 (GA4) into a website for traffic analysis and performance tracking. Used Google Tag Manager to deploy the Google Tag on the site, enabling detailed visitor data collection and analysis for optimizing user engagement.  
+
+Flask Basic Web App:  
+- A simple web application created with Flask, demonstrating routing, HTML templates, and basic web app structure.  
+
+Android Text Recognition App:  
+- An Android application using Kotlin, ML Kit for text recognition, and Room database for local data storage.  
+
+PCComponentes Web Scraper:  
+- A Python script that uses Selenium WebDriver to scrape product information (name, price, discounts) from PCComponentes and save it to a CSV file.  
+
+Automated HTML File Upload to Git:  
+- A PowerShell script that renames an HTML file with a timestamp and uploads it to a Git repository.  
+
+Image Classification with TensorFlow and Flask:  
+- A project that trains a CNN model on the Fashion MNIST dataset to classify images of clothing and uses Flask to create an HTTP server for predictions.  
+
+Rich Text Editor with Konva.js:  
+- A project utilizing Quill and Konva.js to build a rich text editor with the ability to export content as a JPG image.  
+
+JavaScript Form Validation:  
+- A script implementing real-time form validation using JavaScript, including checks for names, NIF, email, phone number, date of birth, and character limits.  
+
+Android Manifest for Camera and Flashlight App:  
+- Creation of an Android Manifest file defining permissions for an app using the camera and flashlight features.  
+
+"Fortune Cookies" HTML Page:  
+- An interactive HTML page that generates motivational phrases and floating heart animations when a button is clicked.  
+
+Basic FastAPI Web App:  
+- A basic example of a FastAPI web application that serves a static HTML file.  
+
+Zalando Image Classification Server:  
+- A project involving the development of an image classification model using TensorFlow and Fashion MNIST dataset, implemented as a web server using BaseHTTPRequestHandler to handle image prediction requests.  
+
+Additional Information:  
+Fatima is a highly motivated and passionate developer with a unique background in event coordination and stage management. She brings exceptional problem-solving skills and a results-driven mindset to her work in software development.  

@@ -1,0 +1,41 @@
+{
+    "documentos": [
+      {
+        "titulo": "Introducción a la Inteligencia Artificial",
+        "contenido": "La inteligencia artificial (IA) es un campo de la informática que busca crear sistemas capaces de realizar tareas que normalmente requieren de la inteligencia humana, como el reconocimiento de voz, la toma de decisiones y la traducción de idiomas. Los algoritmos de aprendizaje automático (machine learning) son una subárea clave de la IA, donde las máquinas aprenden de los datos."
+      },
+      {
+        "titulo": "Historia de la Computación",
+        "contenido": "La historia de la computación se remonta a la antigüedad, con los primeros dispositivos mecánicos como el ábaco. Sin embargo, la computación moderna comenzó con el trabajo de Charles Babbage y su máquina analítica, considerada el primer concepto de computadora programable. A lo largo de los siglos XX y XXI, los avances tecnológicos en hardware y software han transformado la computación en una parte integral de la vida cotidiana."
+      },
+      {
+        "titulo": "El Aprendizaje Supervisado",
+        "contenido": "El aprendizaje supervisado es un tipo de aprendizaje automático donde el modelo se entrena con un conjunto de datos etiquetado. En este tipo de aprendizaje, los datos de entrada están emparejados con la salida esperada, lo que permite al modelo aprender a predecir resultados a partir de datos nuevos. Es ampliamente utilizado en clasificación y regresión."
+      },
+      {
+        "titulo": "El Aprendizaje No Supervisado",
+        "contenido": "El aprendizaje no supervisado se refiere a un tipo de aprendizaje automático donde el modelo se entrena con datos que no están etiquetados. El objetivo es identificar patrones y estructuras subyacentes en los datos. Técnicas como el clustering y la reducción de dimensionalidad son ejemplos comunes de aprendizaje no supervisado."
+      },
+      {
+        "titulo": "Redes Neuronales Artificiales",
+        "contenido": "Las redes neuronales artificiales son modelos computacionales inspirados en el cerebro humano. Consisten en capas de nodos interconectados, donde cada nodo (o neurona) realiza una operación matemática sobre los datos de entrada. Son especialmente eficaces en tareas complejas como el reconocimiento de imágenes y el procesamiento de lenguaje natural."
+      },
+      {
+        "titulo": "El Algoritmo K-Means",
+        "contenido": "El algoritmo K-Means es uno de los métodos más populares en el aprendizaje no supervisado, utilizado para realizar clustering o agrupamiento de datos. El algoritmo busca dividir un conjunto de datos en K grupos distintos, minimizando la variabilidad dentro de cada grupo. K-Means es ampliamente usado en minería de datos y segmentación de clientes."
+      },
+      {
+        "titulo": "Ética en la Inteligencia Artificial",
+        "contenido": "La ética en la inteligencia artificial es un tema fundamental en el desarrollo de tecnologías avanzadas. Se trata de cómo las IA deben ser diseñadas para garantizar que no causen daño a los individuos o a la sociedad. Los desafíos incluyen la toma de decisiones automatizadas, la privacidad de los datos y los sesgos algorítmicos."
+      },
+      {
+        "titulo": "Computación Cuántica",
+        "contenido": "La computación cuántica es un área emergente de la computación que utiliza principios de la mecánica cuántica para procesar información. Las computadoras cuánticas tienen el potencial de resolver problemas complejos mucho más rápido que las computadoras tradicionales, particularmente en áreas como la simulación molecular y la optimización."
+      },
+      {
+        "titulo": "Sistemas Expertos",
+        "contenido": "Los sistemas expertos son una rama de la inteligencia artificial que imita la toma de decisiones de un experto humano en un dominio específico. Se utilizan en áreas como la medicina, donde pueden ayudar a diagnosticar enfermedades basándose en patrones aprendidos de datos históricos."
+      }
+    ]
+  }
+  
